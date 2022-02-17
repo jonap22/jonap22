@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jonap22
+- 👀 I’m interested in software development
+- 📫 How to reach me jonathan.puglla@outlook.com
