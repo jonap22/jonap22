@@ -15,11 +15,3 @@
   <div>
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jonap22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
   </div>
-
-</div>
-  
-</br>
-
-  ![Snake animation](https://github.com/jonap22/jonap22/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
